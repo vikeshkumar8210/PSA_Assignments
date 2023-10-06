@@ -1,5 +1,5 @@
 package day28;
-
+// In Java arrays is a data structure that allows you to store multiple values of the same data types in a single variable.
 public class A {
 	public static void main(String[] args) {
 		int [] x= new int [3];
