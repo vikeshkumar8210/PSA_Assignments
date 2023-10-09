@@ -21,4 +21,7 @@ public class E {
 	}
 
 }
-
+// Output:- 7
+//          14
+//          23
+//          38
