@@ -1,5 +1,7 @@
 package day32;
 
+// Improves file writing performance.
+// It has newline() method using which we can write content in new line.
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 
