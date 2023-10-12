@@ -1,5 +1,6 @@
 package day32;
-
+//Improves file reading performance.
+//It has readline() method using which we can read line by line content from text file.
 import java.io.FileReader;
 import java.io.BufferedReader;
 public class C {
