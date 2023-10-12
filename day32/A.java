@@ -1,5 +1,5 @@
 package day32;
-
+//IT will create a new file every time we run the code and also it replaces by default earlier file.
 import java.io.FileWriter;
 
 public class A {
