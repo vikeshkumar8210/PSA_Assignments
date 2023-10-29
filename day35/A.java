@@ -1,11 +1,9 @@
 package day35;
-
-
 import java.sql.*;
 public class A {
 	public static void main(String[] args) {
-		
-		// Connect to database
+		//3 Rules
+		//1st Connect to database
 		try {
 			Connection con = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/psa","root","9572");
 			System.out.println(con);
@@ -13,8 +11,8 @@ public class A {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		//perform SQL operations.
-		//Close the connection.
+		//2nd perform SQL operations.
+		//3rd Close the connection.
 		
 	}
 
