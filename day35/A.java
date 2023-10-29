@@ -5,7 +5,7 @@ public class A {
 		//3 Rules
 		//1st Connect to database
 		try {
-			Connection con = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/psa","root","9572");
+			Connection con = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/psa","root","password");
 			System.out.println(con);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
