@@ -8,7 +8,7 @@ public class A {
 	public static void main(String[] args) {
 		try {
 			// Connect to Database
-			Connection con = DriverManager.getConnection("jdbc:mysql:127.0.0.1:3306/psa","root","9572");
+			Connection con = DriverManager.getConnection("jdbc:mysql:127.0.0.1:3306/psa","root","password");
 			// Perform SQL Operations
 			Statement stmnt= con.createStatement();
 			stmnt.executeUpdate("insert into registration values('vikesh','jharkhand','vikesh@gmail.com'");
