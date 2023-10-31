@@ -31,4 +31,12 @@ public class A {
 }
 
 
-//OutPut:-
+//OutPut:-mike
+//jharkhand
+//jharkhand@gmail.com
+//9571567527
+//mike
+//jharkhand
+//jharkhand@gmail.com
+//9571567527
+
