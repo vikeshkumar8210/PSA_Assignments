@@ -15,4 +15,6 @@ public class B {
 
 }
 
-//OutPut:-
+//OutPut:-java.lang.ArithmeticException: / by zero
+1000
+
