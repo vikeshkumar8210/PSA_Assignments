@@ -15,4 +15,6 @@ public class C {
 	}
 
 }
-OutPut:-
+
+
+OutPut:-3
