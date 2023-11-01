@@ -17,3 +17,5 @@ public class B {
 	}
 
 }
+
+OutPut:- 2
