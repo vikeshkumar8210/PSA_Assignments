@@ -16,3 +16,5 @@ public class A {
 	}
 
 }
+
+//OutPut:- 1
